@@ -1,10 +1,10 @@
 {
-  "name": "workflow",
+  "name": "babypillow",
   "version": "1.0.0",
-  "description": "Default workflow for app",
+  "description": "Baby pillows website",
   "repository": {
     "type": "git",
-    "url": "https://github.com/severjason/workflow.git"
+    "url": "https://github.com/severjason/babypillow.git"
   },
   "author": "severjason",
   "license": "ISC",
